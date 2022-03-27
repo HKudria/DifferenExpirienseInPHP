@@ -1,0 +1,13 @@
+Chcę byś zaprojektował API Restowe, które mogło by obsługiwać radio.
+
+Operacje jakie powinny być możliwe do wykonania to:
+
+    Włączenie/wyłączenie radia
+    Ustawienie częstotliwości
+    Zapisanie częstotliwości do ulubionych
+    Wczytanie ulubionych
+    Wybranie ulubionego kanału
+    Przeszukiwanie częstotliwości
+    Przełączanie miedzy FM i AM
+
+Endpointy niech zwracają zamockowane dane.

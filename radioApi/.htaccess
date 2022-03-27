@@ -1,0 +1,7 @@
+RewriteEngine on
+
+
+# Rewrite all other URLs to index.php?[url]
+RewriteRule ^api/.* api.php?getApi=$0 [QSA]
+
+
